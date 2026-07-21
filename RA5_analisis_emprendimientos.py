@@ -6,3 +6,6 @@ sede usando listas, diccionarios, funciones, ciclos y condicionales.
 
 from sedes import sedes
 
+print("La variable sedes es tipo:", type(sedes))
+primer_emprendimiento = sedes[0]
+print("Primer emprendimiento:", primer_emprendimiento)
